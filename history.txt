@@ -108,3 +108,4 @@
 2022-12-15: 23 Stockholms(6st),Kalmar(1st),Blekinge(2st),Skåne(3st),Örebro(1st),Västernorrlands(7st),Jämtlands(2st),Norrbottens(1st)
 2022-12-16: 10 Stockholms(1st),Västernorrlands(6st),Jämtlands(2st),Norrbottens(1st)
 2022-12-17: 10 Stockholms(1st),Västernorrlands(6st),Jämtlands(2st),Norrbottens(1st)
+2022-12-18: 10 Stockholms(1st),Västernorrlands(6st),Jämtlands(2st),Norrbottens(1st)
