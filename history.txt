@@ -118,3 +118,4 @@
 2022-12-25: 31 Stockholms(2st),Uppsala(2st),Värmlands(1st),Västmanlands(1st),Dalarna(3st),Gävleborgs(7st),Västernorrlands(8st),Jämtlands(2st),Västerbottens(2st),Norrbottens(3st)
 2022-12-26: 31 Stockholms(2st),Uppsala(2st),Värmlands(1st),Västmanlands(1st),Dalarna(3st),Gävleborgs(7st),Västernorrlands(8st),Jämtlands(2st),Västerbottens(2st),Norrbottens(3st)
 2022-12-27: 52 Stockholms(2st),Uppsala(2st),Östergötlands(4st),Kronobergs(1st),Kalmar(2st),Blekinge(3st),Skåne(5st),Hallands(1st),VästraGötalands(5st),Värmlands(1st),Västmanlands(1st),Dalarna(3st),Gävleborgs(7st),Västernorrlands(8st),Jämtlands(2st),Västerbottens(2st),Norrbottens(3st)
+2022-12-28: 52 Stockholms(2st),Uppsala(2st),Östergötlands(4st),Kronobergs(1st),Kalmar(2st),Blekinge(3st),Skåne(5st),Hallands(1st),VästraGötalands(5st),Värmlands(1st),Västmanlands(1st),Dalarna(3st),Gävleborgs(7st),Västernorrlands(8st),Jämtlands(2st),Västerbottens(2st),Norrbottens(3st)
