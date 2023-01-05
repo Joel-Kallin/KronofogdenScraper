@@ -17,15 +17,18 @@ for ind in range(window - 1):
     average_y.insert(0, np.nan)
 
 trend = np.polyfit(x, y, 1)
+trendSquared = np.polyfit(x, y, 2)
+
 
 average_label = "Running average ({0} days)".format(window)
 
 plt.figure(figsize=(10, 5))
 plt.title('Executive auctions (forced sales) of real estate in Sweden')
 plt.plot_date(dates, y, 'k.-', label='Original data')
-plt.plot_date(dates, average_y, 'r.-', label=average_label)
-plt.plot(x, trend[0]*x+trend[1], label='Polyfit')
-plt.xticks(np.arange(0, len(x), 5))
+##plt.plot_date(dates, average_y, 'r.-', label=average_label)
+plt.plot(x, np.polyval(trend, x), label='Polyfit Linear')
+plt.plot(x, np.polyval(trendSquared, x), label='Polyfit Squared')
+plt.xticks(np.arange(0, len(x), 30))
 plt.grid(linestyle=':')
 plt.legend()
 plt.savefig('trend.png', bbox_inches='tight')
